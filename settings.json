@@ -1,0 +1,14 @@
+{
+    
+    "GBP_JPY" :  { "pair" :  "GBP_JPY", "units": 1000, "short_ma": 16, "long_ma": 32 },
+    "GBP_CHF" :  { "pair" :  "GBP_CHF", "units": 1000, "short_ma": 16, "long_ma": 32 },
+    "GBP_USD" :  { "pair" :  "GBP_USD", "units": 1000, "short_ma": 16, "long_ma": 32 },
+    "EUR_USD" :  { "pair" :  "EUR_USD", "units": 10000, "short_ma": 8, "long_ma": 64 },
+    "EUR_CHF" :  { "pair" :  "EUR_CHF", "units": 1000, "short_ma": 24, "long_ma": 32 },
+    "EUR_GBP" :  { "pair" :  "EUR_GBP", "units": 1000, "short_ma": 4, "long_ma": 8 },
+    "NZD_JPY" :  {"pair"  :  "NZD_JPY", "units": 1000, "short_ma": 8, "long_ma": 32},
+    "NZD_USD" :  {"pair"  :  "NZD_USD", "units": 1000, "short_ma": 4, "long_ma": 96},
+    "USD_CHF" :  {"pair"  :  "USD_CHF", "units": 1000, "short_ma": 32, "long_ma": 96},
+    "USD_JPY" :  {"pair"  :  "USD_JPY", "units": 1000, "short_ma": 4, "long_ma": 32}
+    
+}

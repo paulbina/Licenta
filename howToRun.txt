@@ -1,0 +1,6 @@
+open 3 terminals
+1st terminal: flask run
+2nd terminal: python run_tasks.py
+3rd terminal: pyhton bot.py
+
+1st and 2nd is to display front end, 3rd for backend
