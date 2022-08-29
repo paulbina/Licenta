@@ -9,7 +9,7 @@ from tehnicals import Technicals
 from defs import NONE, BUY, SELL
 from trade_manager import TradeManager
 
-GRANULARITY = "H1"
+GRANULARITY = "M1"
 SLEEP = 10.0
 #"AUD_USD" :  { "pair" :  "AUD_USD", "units": 10000, "short_ma": 16, "long_ma": 32 },
 class TradingBot():
